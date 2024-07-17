@@ -2182,6 +2182,7 @@ tbody.content > tr > td.icon.windowbg:has(> a > img[src*='images/on']) {
 
 tr.windowbg2.whos_viewing {
     background-color: #000000 !important;
+    border-left: 5pt solid #000;
 }
 tr.windowbg2.whos_viewing td {
     color: #DA62AC !important
