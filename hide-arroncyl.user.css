@@ -1,0 +1,10 @@
+/* ==UserStyle==
+@name         Spanking-board.com Hide Arroncyl Posts
+@namespace    github.com/Xenon2434/custom-css
+@version      1.0
+@license      unlicensed
+@preprocessor default
+==/UserStyle== */
+td#sp_center tr:has(td.subject a[title*='View the profile of arroncyl']) {
+    display: none !important;
+}
