@@ -5,6 +5,8 @@
 @license      unlicensed
 @preprocessor default
 ==/UserStyle== */
+@-moz-document domain("spanking-board.com") {
 td#sp_center tr:has(td.subject a[title*='View the profile of arroncyl']) {
     display: none !important;
+}
 }
